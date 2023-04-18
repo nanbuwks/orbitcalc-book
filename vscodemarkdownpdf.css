@@ -6,6 +6,9 @@ img{
 
 h1{
 page-break-before: always;
+padding: 0.8em;
+border-top: solid 10px #80A000;
+border-bottom: solid 10px #80A000;
 }
 
 h2{
