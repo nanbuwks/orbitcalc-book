@@ -7,6 +7,21 @@
 
 当初は qiita2review で、現在は VSCode で作成しています
 
+
+# WINTLETT の説明
+
+![image](images/wintlett_about.png)
+![image](images/wintlett_about2.png)
+![image](images/wintlett_about3.png)
+
+# 説明動画
+<video src='videos/WINTLETT-DEMO.mp4' width=180/>
+
+
+
+
+
+
 # pdf 作成方法
 
 - VSCode にて pdf 出力
