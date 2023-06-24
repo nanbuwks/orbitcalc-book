@@ -15,7 +15,7 @@
 ![image](images/wintlett_about3.png)
 
 # 説明動画
-<video src='videos/WINTLETT-DEMO.mp4' width=180/>
+![video](videos/WINTLETT-DEMO.mp4)
 
 
 
