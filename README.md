@@ -15,7 +15,7 @@
 ![image](images/wintlett_about3.png)
 
 # 説明動画
-<video src="https://github.com/nanbuwks/orbitcalc-book/blob/main/videos/WINTLETT-DEMO.mp4" style="max-width:730px;></video>
+<video src="https://github.com/nanbuwks/orbitcalc-book/blob/main/videos/WINTLETT-DEMO.mp4" style="max-width:730px;"></video>
 
 
 
