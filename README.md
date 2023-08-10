@@ -10,13 +10,19 @@
 
 # WINTLETT の説明
 
+
+
 ![image](images/wintlett_about.png)
 ![image](images/wintlett_about2.png)
 ![image](images/wintlett_about3.png)
 
 # 説明動画
-<video src="https://github.com/nanbuwks/orbitcalc-book/blob/main/videos/WINTLETT-DEMO.mp4" style="max-width:730px;"></video>
 
+
+
+
+
+https://github.com/nanbuwks/orbitcalc-book/assets/5674030/18703b15-32fe-43ca-bee6-b2513ef0e681
 
 
 
