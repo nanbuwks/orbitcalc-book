@@ -1,20 +1,27 @@
+body{
+font-size: 13pt;
+line-height: 2
+}
+
 img{
  display: block;
  margin: 0px auto;
+ background-color: #FFFFFF
 }
 
 
 h1{
+font-size: 3em;
 page-break-before: always;
-padding: 0.8em;
-border-top: solid 10px #80A000;
-border-bottom: solid 10px #80A000;
+padding: 1.5em;
+border-top: solid 20px #400A0;
+border-bottom: solid 20px #400A00;
 }
 
 h2{
 position: relative;
 padding: 0.4em;
-background: #A05050;
+background: #2050a0;
 color: #FFFFFF;
 }
 h3 {
@@ -30,6 +37,9 @@ border-bottom: solid 1px #000000;
 }
 
 table {
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 1px #777;
  page-break-inside: avoid;
 }
 
@@ -53,15 +63,15 @@ table {
     text-align:right;
     margin: 0 0 1em auto;
     width:fit-content;
-    background: #406030;
+    background: #609090;
 }
 
 @media print {
   .pin{
-    background: #C0C0E0;
+    background: #E0E0F0;
   }
   .ref{
-    background: #C0C0F0;
+    background: #E0E0F0;
   }
 }
 
