@@ -11,22 +11,41 @@ img{
 
 
 h1{
-font-size: 3em;
+font-size: 5em;
 page-break-before: always;
 padding: 1.5em;
+border-bottom: none;
+text-align: center;
+/*
 border-top: solid 20px #400A0;
 border-bottom: solid 20px #400A00;
+*/
 }
 
 h2{
+  page-break-before: always;
+  break-inside: avoid;
+  text-align: left;
+font-size: 3em;
 position: relative;
-padding: 0.4em;
-background: #c03030;
-color: #FFFFFF;
+padding: 1em;
+border:1em;
+margin-top: 3.5em;
+margin-bottom: 5em;
+/*border-bottom: solid 1em #000000;*/
+background: #DDDDDD;
+border-radius: 2em 2em 2em 2em;
 }
 h3 {
-border-bottom: solid 3px #000000;
-position: relative;
+  text-align: left;
+  font-size: 1.4em;
+  font-weight:bold;
+  padding: 0.4em 1em 0.4em 2em;
+  margin: 2em 0em 0.4em 0em;
+  
+  position: relatite;
+  background: #607070;
+  color: #FFFFFF;
 }
 h4 {
 border-bottom: solid 2px #000000;
@@ -53,7 +72,7 @@ table {
     text-align:right;
     margin: 0 0 1em auto;
     width:fit-content;
-    background: #406030;
+    background: #FFFF30;
 }
 
 .ref {
@@ -63,15 +82,15 @@ table {
     text-align:right;
     margin: 0 0 1em auto;
     width:fit-content;
-    background: #609090;
+    background: #FFFF90;
 }
 
 @media print {
   .pin{
-    background: #E0E0F0;
+    background: #FFFF30;
   }
   .ref{
-    background: #E0E0F0;
+    background: #FFFF90;
   }
 }
 
